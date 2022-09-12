@@ -1,0 +1,6 @@
+/Users/anoop.khandelwal/Downloads/microservices-new/inventory-service/src/main/java/com/example/inventoryservice/InventoryServiceApplication.java
+/Users/anoop.khandelwal/Downloads/microservices-new/inventory-service/src/main/java/com/example/inventoryservice/service/InventoryService.java
+/Users/anoop.khandelwal/Downloads/microservices-new/inventory-service/src/main/java/com/example/inventoryservice/repository/InventoryRepository.java
+/Users/anoop.khandelwal/Downloads/microservices-new/inventory-service/src/main/java/com/example/inventoryservice/model/Inventory.java
+/Users/anoop.khandelwal/Downloads/microservices-new/inventory-service/src/main/java/com/example/inventoryservice/controller/InventoryController.java
+/Users/anoop.khandelwal/Downloads/microservices-new/inventory-service/src/main/java/com/example/inventoryservice/dto/InventoryResponse.java

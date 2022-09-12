@@ -1,0 +1,10 @@
+/Users/anoop.khandelwal/Downloads/microservices-new/order-service/src/main/java/com/microservice/orderservice/dto/OrderRequest.java
+/Users/anoop.khandelwal/Downloads/microservices-new/order-service/src/main/java/com/microservice/orderservice/dto/OrderLineItemsDto.java
+/Users/anoop.khandelwal/Downloads/microservices-new/order-service/src/main/java/com/microservice/orderservice/config/WebClientConfig.java
+/Users/anoop.khandelwal/Downloads/microservices-new/order-service/src/main/java/com/microservice/orderservice/model/Order.java
+/Users/anoop.khandelwal/Downloads/microservices-new/order-service/src/main/java/com/microservice/orderservice/model/OrderLineItems.java
+/Users/anoop.khandelwal/Downloads/microservices-new/order-service/src/main/java/com/microservice/orderservice/service/OrderService.java
+/Users/anoop.khandelwal/Downloads/microservices-new/order-service/src/main/java/com/microservice/orderservice/repository/OrderRepository.java
+/Users/anoop.khandelwal/Downloads/microservices-new/order-service/src/main/java/com/microservice/orderservice/OrderServiceApplication.java
+/Users/anoop.khandelwal/Downloads/microservices-new/order-service/src/main/java/com/microservice/orderservice/controller/OrderController.java
+/Users/anoop.khandelwal/Downloads/microservices-new/order-service/src/main/java/com/microservice/orderservice/dto/InventoryResponse.java
