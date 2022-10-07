@@ -20,7 +20,7 @@ Order Service, Inventory Service and Notification Service are going to interact 
 
 Overall Solution Architecture of Project:
 
-![Optional Text](../microservices-new/images/solution_architecture.png)
+![Optional Text](images/solution_architecture.png)
 
 Here we have Product Service which is talking to MongoDB
 Order Service,Inventory Service which is talking to MySQL DB
