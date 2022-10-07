@@ -1,7 +1,7 @@
 Online Shopping Application
 Build Using Spring Boot & Spring Cloud Technologies.
 
-It Covers Important Architectural Patterns:
+It covers important architectural patterns:
 1) Service Discovery
 2) Centralized Configuration
 3) Distributed Tracing
